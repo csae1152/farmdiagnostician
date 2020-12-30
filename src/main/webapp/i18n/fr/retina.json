@@ -1,0 +1,24 @@
+{
+  "farmdiagnosticianApp": {
+    "retina": {
+      "home": {
+        "title": "Retinas",
+        "createLabel": "Créer un nouveau Retina",
+        "createOrEditLabel": "Créer ou éditer un Retina",
+        "notFound": "Aucun Retina trouvé"
+      },
+      "created": "Un nouveau Retina a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Retina avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Retina avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Retina {{ id }} ?"
+      },
+      "detail": {
+        "title": "Retina"
+      },
+      "name": "Name",
+      "picture": "Picture",
+      "animal": "Animal"
+    }
+  }
+}

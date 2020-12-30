@@ -1,0 +1,11 @@
+{
+  "farmdiagnosticianApp": {
+    "animalKindTypeSearch": {
+      "null": "",
+      "COW": "COW",
+      "PIG": "PIG",
+      "GOAT": "GOAT",
+      "CHICKEN": "CHICKEN"
+    }
+  }
+}

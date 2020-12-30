@@ -1,0 +1,24 @@
+{
+  "farmdiagnosticianApp": {
+    "retina": {
+      "home": {
+        "title": "Retinas",
+        "createLabel": "Create a new Retina",
+        "createOrEditLabel": "Create or edit a Retina",
+        "notFound": "No Retinas found"
+      },
+      "created": "A new Retina is created with identifier {{ param }}",
+      "updated": "A Retina is updated with identifier {{ param }}",
+      "deleted": "A Retina is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Retina {{ id }}?"
+      },
+      "detail": {
+        "title": "Retina"
+      },
+      "name": "Name",
+      "picture": "Picture",
+      "animal": "Animal"
+    }
+  }
+}
